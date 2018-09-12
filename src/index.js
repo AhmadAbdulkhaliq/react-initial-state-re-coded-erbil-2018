@@ -7,6 +7,6 @@ ReactDOM.render(
   <Address 
     street="Santa Monica Blvd."
     city="Santa Monica"
-  />,
+  />, <ToggleButton />,
   document.getElementById('root')
 );
